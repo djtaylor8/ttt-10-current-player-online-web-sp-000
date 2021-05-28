@@ -1,3 +1,4 @@
 def turn_count(board)
-  board.each { |space|
+  counter = 0 
+  board.each { |space| 
 end
